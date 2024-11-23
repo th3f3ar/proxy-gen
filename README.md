@@ -19,7 +19,7 @@ Proxy Fetcher is a Python application that fetches proxy lists from various sour
 
 You can join our community on Discord to get the latest version and more updates. Click the link below to join!
 
-[Join the Proxy Fetcher Discord Community](https://discord.gg/pwVehpQT3Z)
+[Join the KeySphere Discord Server](https://discord.gg/pwVehpQT3Z)
 
 ## License
 
